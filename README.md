@@ -21,7 +21,7 @@ This project analyzes sales data from a fictional coffee shop to reveal trends a
 - `CoffeeShop_Sales_Analysis.xlsx` – Excel file with pivots and visuals
 - `CoffeeShop_Sales_Analysis.pdf`- pdf file for Miro flowchart
 - `CoffeeShop_Sales_Presentation.pptx` – PowerPoint presentation of findings
-- `CoffeeShop_Sales_Dashboard.pbix`
+- `CoffeeShop_Sales_Dashboard.pbix` - PowerBI Dashboard indicating the total revenue and other information 
 - `README.md` – Project overview
   
 ## 📈 Project Summary & Key Insights
