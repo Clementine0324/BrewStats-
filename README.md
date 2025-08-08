@@ -5,7 +5,7 @@ Your go-to dashboard for tracking and analyzing coffee shop sales, customer tren
 This project analyzes sales data from a fictional coffee shop to reveal trends and insights that support business decisions.
 
 ## 📊 Tools Used
-- SQL (queries saved as screenshots in Word document)
+- SQL (Queries of data extracted from Snowflake and workbench)
 - Excel (data analysis and visualization)
 - PowerPoint (presentation of findings)
 
